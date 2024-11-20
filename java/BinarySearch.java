@@ -1,5 +1,6 @@
 // time complexity; O(log n)
 // space complexity; O(1)
+// REQUIRES ARRAY TO BE SORTED
 
 public class BinarySearch
   {
